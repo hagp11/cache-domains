@@ -21,3 +21,9 @@ go.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
+officecdn.microsoft.com
+officecdn.microsoft.com.edgesuite.net
+officeupdates.microsoft.com
+update.microsoft.com
+download.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
