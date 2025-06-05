@@ -27,3 +27,7 @@ officeupdates.microsoft.com
 update.microsoft.com
 download.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
+*.fastly.net
+*.fastly.com
+fastly.net
+fastly.com
